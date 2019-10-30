@@ -1,3 +1,4 @@
 
 Modificando fihero.txt. Paso 5
 Fusionada rama 1 con la rama master
+Acabado módulo 2 tras fusionar "rama1" con rama "master"
