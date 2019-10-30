@@ -1,1 +1,2 @@
-modificando copia local del archivo conflicto.txt
+﻿modificando copia local del archivo conflicto.txt
+Modificando archivo en página web
